@@ -1,0 +1,36 @@
+		body {
+			font-family: arial;
+			text-align: center;
+			background-color: silver;
+		}
+		h3 {
+			background-color: gray;
+			height: 25px;
+			padding: 25px;
+			border-radius: 10px;
+		}
+		.enviar {
+			display: inline-flex;
+			
+		}
+		input {
+			border: solid 1px gray;
+			border-radius: 5px;
+			text-align: center;
+			margin: 0 auto;
+		}
+		table, th, td{
+			margin: auto;
+			border: solid 1px;
+			border-collapse: collapse;
+			padding: 5px;
+			text-align: center;
+		}
+		table {
+			background-color: rgb(163, 156, 156);
+			color: black;
+		}
+		img{
+			width: 25px;
+			height: auto;
+		}

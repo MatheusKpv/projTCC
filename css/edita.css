@@ -1,0 +1,35 @@
+		body {
+			font-family: arial;
+			text-align: center;
+			background-color: silver;
+		}
+		h3 {
+			background-color: gray;
+			height: 25px;
+			padding: 25px;
+			border-radius: 10px;
+		}
+		.enviar {
+			display: inline-flex;
+			
+		}
+		input {
+			border: solid 1px gray;
+			border-radius: 5px;
+			text-align: center;
+			display: block;
+			margin: 0 auto;
+		}
+
+		.num {
+			display: inline-flex;
+		}
+		.ddd {
+			width: 60px;
+		}
+		.cel {
+			width: 130px;
+		}
+		.email {
+			width: 220px;
+		}

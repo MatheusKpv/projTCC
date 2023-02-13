@@ -1,0 +1,33 @@
+body {
+    background-color: silver;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+table, th, td{
+    margin: auto;
+    border: solid 1px;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+}
+table {
+    background-color: rgb(163, 156, 156);
+    color: black;
+}
+a {
+    color: rgb(85, 85, 129);
+    text-decoration: none;
+}
+.acess {
+    color: rgb(85, 85, 129);
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+}
+label {
+    color: rgb(85, 85, 129);
+}
+img{
+    width: 25px;
+    height: auto;
+}
